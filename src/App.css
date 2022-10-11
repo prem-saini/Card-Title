@@ -1,0 +1,84 @@
+.po {
+  position: absolute;
+  right: 105px;
+
+}
+
+.bt {
+  position: absolute;
+  right: 10px;
+  top: 6px;
+  width: 80px;
+  height: 40px;
+  color: black;
+
+
+}
+
+body {
+  background-color: rgb(230 242 255);
+}
+
+.grid {
+
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  height: 260px;
+  width: 400px;
+
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.info h4 {
+  width: 60%;
+  margin: 5px;
+
+}
+
+.info p {
+  width: 55%;
+  margin-left: 5px;
+
+}
+
+.buttonone {
+  position: relative;
+}
+
+.btn {
+  position: absolute;
+  top: -90px;
+  right: 20px;
+}
+
+.city p {
+  width: 55%;
+  margin-left: 5px;
+
+
+
+}
+
+.jobtype {
+  margin-left: 250px;
+  margin-top: -60px;
+}
+
+.btn {
+  background-color: transparent;
+  color: black;
+  border: 1px solid blue;
+}
+
+.btn:hover {
+  background-color: blue;
+}
+
+/* .bt:hover {
+  background-color: white;
+} */
